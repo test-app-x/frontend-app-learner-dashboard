@@ -35,7 +35,7 @@ const sidebarRecommender = () => (
   </Container>
 );
 
-import Footer from './my-brand/Footer'
+import Footer from './my-brand/footer/Footer'
 
 const config = {
   pluginSlots: {
